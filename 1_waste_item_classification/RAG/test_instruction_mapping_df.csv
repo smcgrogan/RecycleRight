@@ -1,0 +1,29 @@
+,pred_class,generic names,location,location_id,instruction_id
+0,0,aluminum can,"Cook County, IL",1,0
+1,0,aluminum can,"Palm Desert, CA",2,0
+2,1,metal food can,"Cook County, IL",1,0
+3,1,metal food can,"Palm Desert, CA",2,0
+4,2,beverage can,"Cook County, IL",1,0
+5,2,beverage can,"Palm Desert, CA",2,0
+6,3,disposable cup,"Cook County, IL",1,4
+7,3,disposable cup,"Palm Desert, CA",2,3
+8,4,cardboard box,"Cook County, IL",1,1
+9,4,cardboard box,"Palm Desert, CA",2,1
+10,5,glass bottle,"Cook County, IL",1,2
+11,5,glass bottle,"Palm Desert, CA",2,0
+12,6,plastic bottle,"Cook County, IL",1,3
+13,6,plastic bottle,"Palm Desert, CA",2,2
+14,7,plastic cup,"Cook County, IL",1,4
+15,7,plastic cup,"Palm Desert, CA",2,3
+16,8,plastic bag,"Cook County, IL",1,5
+17,8,plastic bag,"Palm Desert, CA",2,3
+18,9,plastic jug,"Cook County, IL",1,3
+19,9,plastic jug,"Palm Desert, CA",2,2
+20,10,plastic takeout container,"Cook County, IL",1,6
+21,10,plastic takeout container,"Palm Desert, CA",2,3
+22,11,styrofoam food container,"Cook County, IL",1,6
+23,11,styrofoam food container,"Palm Desert, CA",2,3
+24,12,styrofoam packing block,"Cook County, IL",1,6
+25,12,styrofoam packing block,"Palm Desert, CA",2,2
+26,13,other,"Cook County, IL",1,6
+27,13,other,"Palm Desert, CA",2,3

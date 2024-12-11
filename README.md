@@ -2,7 +2,9 @@
 RecycleRight is an innovative app powered by cutting-edge AI technology that instantly identifies and provides accurate recycling instructions based on a photo of any waste item. Simply snap a picture of the item, upload your corresponding locale information, and RecycleRight will guide you on how to properly dispose of or recycle it.
 
 ## Project Team
-This project originates from a capstone project prepared for the Master of Information and Data Science (MIDS) of UC Berkeley. Members of the capstone project team:
+This project originates from a capstone project prepared for the Master of Information and Data Science (MIDS) of UC Berkeley. Check out our [student website](https://www.ischool.berkeley.edu/projects/2024/recycleright) and our [official website](https://sites.google.com/berkeley.edu/recyclerightwithjane/home)
+
+Members of the capstone project team:
 - Anne Deforge: adeforge@berkeley.edu
 - Ibrahim Shareef: ibrahim.shareef@berkeley.edu
 - Jacqueline Lam: jacq@berkeley.edu
